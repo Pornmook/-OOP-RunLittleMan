@@ -1,4 +1,4 @@
-##Run Little Man (1/2023)
+## Run Little Man (1/2023)
 This project is part of the Object-Oriented Programming (OOP) course.
 It applies OOP concepts to the development of a game.
 
